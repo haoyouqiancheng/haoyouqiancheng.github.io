@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>html</title>
+      <link href="/2023/08/21/html/"/>
+      <url>/2023/08/21/html/</url>
+      
+        <content type="html"><![CDATA[<p>暑假要结束啦，学点HTML前端。<br>这是最近学的一些皮毛。<br>首先是html的基本骨架<br>在VS CODE中使用快捷键!即可创建html的基本骨架<br>即</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">    &lt;head&gt;</span><br><span class="line">        &lt;title&gt;记录网站的名字，例如百度网页的&lt;/title&gt;</span><br><span class="line">    &lt;/head&gt;</span><br><span class="line">    &lt;body&gt;</span><br><span class="line">    显示网页里的内容</span><br><span class="line">    &lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>代码块的运用</title>
       <link href="/2023/07/20/%E4%BB%A3%E7%A0%81%E5%9D%97%E7%9A%84%E8%BF%90%E7%94%A8/"/>
       <url>/2023/07/20/%E4%BB%A3%E7%A0%81%E5%9D%97%E7%9A%84%E8%BF%90%E7%94%A8/</url>
